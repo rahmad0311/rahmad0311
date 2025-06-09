@@ -1,5 +1,7 @@
 {
   "name": "vite-react-typescript-starter",
+  "homepage": "https://rahmad0311.github.io/rahmad0311"
+  "deploy": "gh-pages -d dist"
   "private": true,
   "version": "0.0.0",
   "type": "module",
